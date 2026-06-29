@@ -9,7 +9,9 @@ This repository contains all internship assignments completed in  C  programming
 - Task_3
 - Task_4
 - Task_5
-- Final_Project - Student Cyber Security Management System
+- Final_Project - Student Cyber Security Management System (Task_6)
+- Task_7
+- Task_8
 
 Each task contains:
 - C Implementation
